@@ -1,2 +1,2 @@
 # java-sintaxe-basica
-Repor com a sintaxe básica do Java
+Repositório com exemplo de sintaxe básica do Java (sintaxe básica de uma classe - Hello World)
